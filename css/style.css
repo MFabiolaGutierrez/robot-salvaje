@@ -1,0 +1,19 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: rgb(160, 160, 204);
+    color: rgb(20, 19, 12);
+}
+
+h1{
+    text-align: center;
+    padding: 10px;
+}
+img{
+    width: 20%;
+    height: auto;
+   
+}
